@@ -4,9 +4,8 @@ languages:
 - java
 products:
 - azure
-extensions:
-- services: Storage
-- platforms: java
+description: "Getting Started with Storage - Manage Storage Account Async - in Java"
+urlFragment: storage-java-manage-storage-accounts-async
 ---
 
 # Getting Started with Storage - Manage Storage Account Async - in Java #
