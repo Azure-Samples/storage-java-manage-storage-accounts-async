@@ -4,20 +4,20 @@ languages:
 - java
 products:
 - azure
+- azure-storage
 description: "Azure Storage sample for managing storage accounts."
 urlFragment: storage-java-manage-storage-accounts-async
 ---
 
 # Manage Storage Account Async (Java)
 
+Azure Storage sample for managing storage accounts.
 
-  Azure Storage sample for managing storage accounts -
-   - Create two storage account
-   - List storage accounts and regenerate storage account access keys
-   - Delete both storage account.
+- Create two storage account
+- List storage accounts and regenerate storage account access keys
+- Delete both storage account.
  
-
-## Running this Sample
+## Running this sample
 
 To run this sample:
 
